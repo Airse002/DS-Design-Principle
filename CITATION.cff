@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "DS-Design-Principle (Project D-Link): Dimensional Shift Design Principle"
+version: 1.0.0
+date-released: 2026-01-01
+authors:
+  - family-names: "Burda"
+    given-names: "Jiří"
+license: Apache-2.0
+repository-code: "https://github.com/Airse002/DS-Design-Principle"
+identifiers:
+  - type: doi
+    value: "10.13140/RG.2.2.32197.72168"
+    description: "ResearchGate preprint DOI"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Burda"
+      given-names: "Jiří"
+  title: "Dimensional Shift Design Principle (Project D-Link): A Policy-Driven Architecture for Heterogeneous CPU–GPU–Quantum Computation"
+  year: 2026
+  month: 1
+  doi: "10.13140/RG.2.2.32197.72168"
+  journal: "ResearchGate Preprint"
