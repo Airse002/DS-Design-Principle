@@ -1,0 +1,14 @@
+NOTICE
+
+This repository contains both software artifacts and research manuscripts.
+
+1) Software/code (if present) is licensed under the Apache License 2.0 (see LICENSE).
+
+2) Manuscripts and PDFs intended as the research paper/preprint are licensed under
+Creative Commons Attribution 4.0 International (CC BY 4.0), consistent with the
+ResearchGate preprint record:
+DOI: 10.13140/RG.2.2.32197.72168
+
+Unless explicitly stated otherwise inside a file, assume:
+- code: Apache-2.0
+- paper PDFs/DOCX: CC BY 4.0
