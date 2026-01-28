@@ -121,7 +121,7 @@ See `LICENSE` and `NOTICE` for details.
 
 ## 📖 How to Cite (IEEE)
 
-> J. Burda, “Dimensional Shift Design Principle (Project D-Link):  
+> J. Burda, J. Havlasek “Dimensional Shift Design Principle (Project D-Link Qywaria made):  
 > A Policy-Driven Architecture for Heterogeneous CPU–GPU–Quantum Computation,”  
 > *ResearchGate Preprint*, Jan. 2026,  
 > doi: 10.13140/RG.2.2.32197.72168.
